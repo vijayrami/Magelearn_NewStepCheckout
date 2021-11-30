@@ -2,7 +2,7 @@
 
 **New Step Checkout contains** 
 
-- Additional checkout step "Checkout Products" before the shipping step with displaying the product list widget.
+- Additional checkout step "Checkout Products" before the shipping step with displaying the product list widget in slider mode.
 - Widget that extends Catalog module functionality and provides a template that contains a product list created using rule based filter.
 
 [![Checkout.png](https://i.postimg.cc/dtTQMgQy/Checkout.png)](https://postimg.cc/cr0Gw9nx)
