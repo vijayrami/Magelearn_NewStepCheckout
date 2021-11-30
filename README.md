@@ -9,3 +9,7 @@
 - Create a CMS Block with Identifier "checkout_products_block"
 
 - Insert Product List widget with template option "Checkout Products Grid Template"
+
+[![Checkout.png](https://i.postimg.cc/dtTQMgQy/Checkout.png)](https://postimg.cc/cr0Gw9nx)
+
+[![Annotate-a-local-image.png](https://i.postimg.cc/pLf2r8FV/Annotate-a-local-image.png)](https://postimg.cc/0zNgHznh)
