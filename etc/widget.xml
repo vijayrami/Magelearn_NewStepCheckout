@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
+    <widget id="products_list" class="Magento\CatalogWidget\Block\Product\ProductsList">
+        <label translate="true">Catalog Products List</label>
+        <description translate="true">List of Products</description>
+        <parameters>
+            <parameter name="template" xsi:type="select" required="true" visible="true">
+                <options>
+                    <option name="checkoutproducts" value="Magelearn_NewStepCheckout::product/widget/content/grid.phtml">
+                        <label translate="true">Checkout Products Grid Template</label>
+                    </option>
+                </options>
+            </parameter>
+        </parameters>
+        <containers>
+            <container name="content">
+                <template name="checkoutproducts" value="checkoutproducts"/>
+            </container>
+            <container name="content.top">
+                <template name="checkoutproducts" value="checkoutproducts"/>
+            </container>
+            <container name="content.bottom">
+                <template name="checkoutproducts" value="checkoutproducts"/>
+            </container>
+        </containers>
+    </widget>
+</widgets>

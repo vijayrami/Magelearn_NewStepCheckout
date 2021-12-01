@@ -1,0 +1,23 @@
+{
+    "name": "magelearn/module-new-step-checkout",
+    "description": "This module displays Additional checkout step 'Checkout Products' before the shipping step with displaying the product list widget.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vijay Rami",
+            "email": "vijaymrami@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magelearn\\NewStepCheckout\\": ""
+        }
+    }
+}
