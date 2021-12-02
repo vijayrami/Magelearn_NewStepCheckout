@@ -1,3 +1,6 @@
+/*
+ * If your new step is the first step, you have to create mixins for the payment and shipping steps. Otherwise, two steps will be activated on the loading of the checkout.
+ */
 define([
     'ko'
 ], function (ko) {
