@@ -15,3 +15,7 @@
 - Insert Product List widget with template option "Checkout Products Grid Template"
 
 [![Checkout-Products-Blocks-Elements-Content-Magento-Admin.png](https://i.postimg.cc/6qtPH2Qc/Checkout-Products-Blocks-Elements-Content-Magento-Admin.png)](https://postimg.cc/5YKpytLQ)
+
+# Referances
+
+https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_new_step.html
